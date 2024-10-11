@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -14,9 +13,9 @@
         
         <li><a href="https://github.com/ANobody09/Programacion-web/commit/6a58cbc00f510d4a8fd0067bce8734c3c6740a60" target="_blank">Práctica 1: Introducción a HTML</a></li>
         <li><a href="https://www.ejemplo.com/practica2" target="_blank">Práctica 2: Estructura básica de un documento HTML</a></li>
-        <li><a href="https://www.ejemplo.com/practica3" target="_blank">Práctica 3: Uso de imágenes y enlaces en HTML</a></li>
-        <li><a href="https://www.ejemplo.com/practica4" target="_blank">Práctica 4: Listas en HTML</a></li>
-        <li><a href="https://www.ejemplo.com/practica5" target="_blank">Práctica 5: Tablas en HTML</a></li>
+        <li><a href="https://www.ejemplo.com/practica3" target="_blank">Práctica 3: </a></li>
+        <li><a href="https://www.ejemplo.com/practica4" target="_blank">Práctica 4: </a></li>
+        <li><a href="https://www.ejemplo.com/practica5" target="_blank">Práctica 5: </a></li>
     </ul>
 </body>
 </html>
