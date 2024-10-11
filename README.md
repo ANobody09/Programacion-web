@@ -1,4 +1,5 @@
-<html lang="es">
+
+<!DOCTYPE html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Enrique Villada">
