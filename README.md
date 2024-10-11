@@ -11,7 +11,7 @@
     <h2>Programación Web</h2>
     
     <ul>
-        <!-- Cambia las URL por las que necesites -->
+        
         <li><a href="https://github.com/ANobody09/Programacion-web/commit/6a58cbc00f510d4a8fd0067bce8734c3c6740a60" target="_blank">Práctica 1: Introducción a HTML</a></li>
         <li><a href="https://www.ejemplo.com/practica2" target="_blank">Práctica 2: Estructura básica de un documento HTML</a></li>
         <li><a href="https://www.ejemplo.com/practica3" target="_blank">Práctica 3: Uso de imágenes y enlaces en HTML</a></li>
