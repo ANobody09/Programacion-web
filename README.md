@@ -11,9 +11,9 @@
     
     <ul>
         
-        <li><a href="Practica\Practica 1.html" target="_blank">Práctica 1: Introducción a HTML</a></li>
-        <li><a href="Practica\Practica2.HTML" target="_blank">Práctica 2: Estructura básica de un documento HTML</a></li>
-        <li><a href="Practica\Practica3.html" target="_blank">Práctica 3: Listas</a></li>
+        <li><a href="Practica\Prac1.html" target="_blank">Práctica 1: Introducción a HTML</a></li>
+        <li><a href="Practica\Prac2.html" target="_blank">Práctica 2: Estructura básica de un documento HTML</a></li>
+        <li><a href="Practica\Practica3.html" target="_blank">Práctica 3: listas</a></li>
     </ul>
 </body>
 </html>
