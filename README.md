@@ -17,6 +17,7 @@
         <li><a href="Practica/Tablas3.html" target="_blank">Práctica 4: Tablas</a></li>
         <li><a href="Practica/Formulario.html" target="_blank">Práctica 5: Formulario</a></li>
         <li><a href="Practica/Practica 6.html" target="_blank">Práctica 6: Practica </a></li>
+        <li><a href="Practica/Practica1PHP.php" target="_blank">Práctica 1: InicioPHP </a></li>
     </ul>
 </body>
 </html>
